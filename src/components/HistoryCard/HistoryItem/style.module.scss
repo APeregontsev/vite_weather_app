@@ -1,0 +1,30 @@
+.historyItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 10px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #efefef9e;
+    border-radius: 8px;
+  }
+}
+
+.historyItemPending {
+  background-color: #ff00000d;
+  border-radius: 8px;
+  cursor: default;
+
+  &:hover {
+    background-color: #ff00000d;
+    border-radius: 8px;
+  }
+}
+
+.titleWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}

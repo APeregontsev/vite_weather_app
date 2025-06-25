@@ -1,0 +1,22 @@
+.headerWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  border-bottom: 1px solid #80808061;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.imageWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.imageTitle {
+  font-weight: 600;
+}

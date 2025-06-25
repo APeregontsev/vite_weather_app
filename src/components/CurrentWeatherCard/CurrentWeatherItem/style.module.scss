@@ -1,0 +1,24 @@
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.itemTitleContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  padding: 5px;
+}
+
+.itemTitle {
+  min-width: 100px;
+}
+
+.itemValue {
+  min-width: 45px;
+}
