@@ -4,6 +4,8 @@
   padding: 15px;
   border-radius: 8px;
   transition: all 0.5s ease-out;
+  min-height: 211px;
+  height: 211px;
 
   @media screen and (max-width: 650px) {
     width: 100%;
@@ -15,7 +17,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 150px;
+  height: 100%;
+  width: 100%;
 }
 
 .noDataWrapper {
@@ -24,7 +27,7 @@
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 150px;
+  height: 100%;
   color: grey;
 }
 
