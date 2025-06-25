@@ -6,8 +6,8 @@ Please find below the test assignment - Weather Forecast.
 
 Tech Stack: React | TypeScript | Vite | Vitest | Zustand | React Query | DayJS | Axios | React Hook Form.
 
-npm run dev - to run the development version;
-npm run test - to run tests;
+- **`npm run dev`** – to run the development version
+- **`npm run test`** – to run tests
 
 The application is deployed at: ...
 
