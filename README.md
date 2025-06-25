@@ -1,7 +1,5 @@
 # Weather Forecast App
 
-# React + TypeScript + Vite
-
 Hello!
 
 Please find below the test assignment - Weather Forecast.
