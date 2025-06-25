@@ -19,6 +19,7 @@ The application is deployed at: [https://aperegontsev.github.io/vite_weather_app
 - On initial load, if the viewing history is empty - 5 cities will be automatically added to the history to provide a more relevant initial view;
 - Mobile view is implemented;
 - The application is designed to be highly modular and easily extendable;
-- Modern best practices were followed throughout the design and development process.
+- Modern best practices were followed throughout the design and development process;
+- Configured CI/CD pipeline for app deployment (deploy.yml);
 
 Have a great day!
