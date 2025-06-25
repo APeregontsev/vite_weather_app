@@ -22,4 +22,4 @@ The application is deployed at: [https://aperegontsev.github.io/vite_weather_app
 - Modern best practices were followed throughout the design and development process;
 - Configured CI/CD pipeline for app deployment (deploy.yml);
 
-Have a great day!
+**Have a great day!**
