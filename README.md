@@ -11,7 +11,7 @@ Tech Stack: React | TypeScript | Vite | Vitest | Zustand | React Query | DayJS |
 
 The application is deployed at: [https://aperegontsev.github.io/vite_weather_app/](https://aperegontsev.github.io/vite_weather_app/)
 
-Additional notes:
+**Additional notes:**
 
 - When deleting an item from the history, it will be marked in red and removed after 3 seconds (unless the undo button is pressed in time);
 
