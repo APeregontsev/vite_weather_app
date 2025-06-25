@@ -9,7 +9,7 @@ Tech Stack: React | TypeScript | Vite | Vitest | Zustand | React Query | DayJS |
 - **`npm run dev`** - to run the development version;
 - **`npm run test`** - to run tests;
 
-The application is deployed at: ...
+The application is deployed at: [https://aperegontsev.github.io/vite_weather_app/](https://aperegontsev.github.io/vite_weather_app/)
 
 Additional notes:
 
